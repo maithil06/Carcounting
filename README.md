@@ -52,7 +52,7 @@ A computer vision project that counts the number of automobiles passing through 
     ```
     Or execute the Python script (if converted from the notebook):
     ```bash
-    python "Car counting.py"
+     python car_counting.py
     ```
 3.  The script will open a window displaying the video feed with detected vehicles and the real-time count.
 4.  Press `Enter` to exit the video playback.
